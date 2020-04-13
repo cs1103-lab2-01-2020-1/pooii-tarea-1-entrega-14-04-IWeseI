@@ -14,7 +14,11 @@ public:
 utec_vector(){
   size = 0;
   v = {};
-};
+}
+
+utec_vector(){
+
+}
 
 void push_back(int n){
   size = size +1;
@@ -43,8 +47,4 @@ friend utec_vector operator+(const utec_vector first, const utec_vector second){
   }
   return x;
 }
-
-int getv(int x){
-  return v[x];
 }
-};
