@@ -47,4 +47,4 @@ friend utec_vector operator+(const utec_vector first, const utec_vector second){
   }
   return x;
 }
-}
+};
