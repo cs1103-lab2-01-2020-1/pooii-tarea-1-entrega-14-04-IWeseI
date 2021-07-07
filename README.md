@@ -6,7 +6,7 @@
 
 
 ## Entrega
-De acuerdo a lo mencionado en sesion 3, la tarea debe ser entregado 
+De acuerdo a lo mencionado en sesion 3, la tarea debe ser entregado
 como máximo el día Martes 14 de Abril a las 23:59 PM.
 
 
